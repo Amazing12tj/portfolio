@@ -5,7 +5,7 @@ import Projects from "./components/Projects";
 import About from "./components/About";
 import Services from "./components/Services";
 import Contact from "./components/Contact";
-import Skills from "./components/Skills";
+import Skills from './components/skills';
 import NotFound from "./pages/NotFound";
 import Navbar from "./components/Navbar";
 import ThemeToggle from "./components/ThemeToggle";
